@@ -1,0 +1,9 @@
+data/
+ps-lite/guide/
+*.a
+*.o
+*.d
+*.swp
+*.bk
+*.bak
+
